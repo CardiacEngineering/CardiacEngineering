@@ -1,3 +1,3 @@
 # CardiacEngineering
 
-https://cardiacengineering.github.io/CardiacEngineering/
+https://cardiacengineering.github.io/
